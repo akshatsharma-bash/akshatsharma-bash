@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1200&color=34D399&center=true&vCenter=true&width=560&lines=Shipping+React+Native+apps+that+are+live+on+both+stores;Sole+developer+on+the+India+IPO+app+and+Node%2FExpress+API;Node.js+%2F+Express+backend%2C+Razorpay%2C+AWS+SES+from+scratch;4+years+in%2C+9+apps+shipped%2C+still+writing+the+code+myself)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1200&color=34D399&center=true&vCenter=true&width=800&lines=Shipping+React+Native+apps+that+are+live+on+both+stores;Sole+developer+on+the+India+IPO+app+and+Node%2FExpress+API;Node.js+%2F+Express+backend%2C+Razorpay%2C+AWS+SES+from+scratch;4+years+in%2C+9+apps+shipped%2C+still+writing+the+code+myself)](https://git.io/typing-svg)
 
 </div>
 
