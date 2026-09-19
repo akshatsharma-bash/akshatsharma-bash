@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1200&color=34D399&center=true&vCenter=true&width=560&lines=Shipping+React+Native+apps+that+are+live+on+both+stores;Node.js+%2F+Express+backend%2C+Razorpay%2C+AWS+SES+from+scratch;4+years+in%2C+9+apps+shipped%2C+still+writing+the+code+myself)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1200&color=34D399&center=true&vCenter=true&width=560&lines=Shipping+React+Native+apps+that+are+live+on+both+stores;Sole+developer+on+the+India+IPO+app+and+Node%2FExpress+API;Node.js+%2F+Express+backend%2C+Razorpay%2C+AWS+SES+from+scratch;4+years+in%2C+9+apps+shipped%2C+still+writing+the+code+myself)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ### About
 
-I'm the Tech Lead at **[India IPO](https://indiaipo.in)**, a fintech platform for IPO consultancy in India. I'm the sole developer on our React Native app and the Node.js/Express API behind it, and I lead a 5-engineer team building out the web platform. Mobile is where I'm strongest — React Native first, full-stack second.
+I'm the Tech Lead at **[India IPO](https://indiaipo.in)**, a fintech platform for IPO consultancy in India. I'm the sole developer on our React Native app and the Node.js/Express API behind it. Mobile is where I'm strongest — React Native first, full-stack second.
 
 Based in Ghaziabad, India. Open to Delhi NCR, Bengaluru, or remote.
 
@@ -28,7 +28,6 @@ const akshat = {
   company: "India IPO",
   focus: ["React Native", "Node.js / Express", "React", "Next.js"],
   shipped: "9 apps live across Play Store & App Store",
-  
 };
 ```
 
@@ -51,7 +50,7 @@ const akshat = {
 
 | Project | What it is | Links |
 |---|---|---|
-| **India IPO** | React Native app + Node/Express API for IPO consultancy — the platform I lead | [Play Store](https://play.google.com/store/apps/details?id=com.indiaipo) · [App Store](https://apps.apple.com/app/id6753787520) |
+| **India IPO** | React Native app + Node/Express API for IPO consultancy | [Play Store](https://play.google.com/store/apps/details?id=com.indiaipo) · [App Store](https://apps.apple.com/app/id6753787520) |
 | **Studycaller** | CA/CS/CMA learning platform — notes library, class marketplace, ICAI-style test series | [Play Store](https://play.google.com/store/apps/details?id=com.aino.studycaller) · [App Store](https://apps.apple.com/app/id6444317990) |
 | **StafflinePro** | Staffing/workforce management app | [Play Store](https://play.google.com/store/apps/details?id=com.stafflinepro) |
 | **IPO World** | Editorial magazine covering the IPO market | [ipoworld.indiaipo.in](https://ipoworld.indiaipo.in) |
