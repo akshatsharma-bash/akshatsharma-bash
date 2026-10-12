@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://akeytechlabs.com"><img src="https://img.shields.io/badge/Portfolio-akeytechlabs.com-0A0A0B?style=for-the-badge&logo=googlechrome&logoColor=34D399" /></a>
   <a href="https://linkedin.com/in/akshat-sharma-422715134"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A0A0B?style=for-the-badge&logo=linkedin&logoColor=34D399" /></a>
-  <a href="mailto:akshat.indiaipo@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20out-0A0A0B?style=for-the-badge&logo=gmail&logoColor=34D399" /></a>
+  <a href="mailto:sharmaakshat1998@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20out-0A0A0B?style=for-the-badge&logo=gmail&logoColor=34D399" /></a>
 </p>
 
 ---
@@ -71,6 +71,6 @@ Six more client apps shipped during my time at Quloe Digital, across legal tech,
 
 ---
 
-<p align="center"><sub>Open to Mobile Lead / full-stack-with-mobile-focus roles — <a href="mailto:akshat.indiaipo@gmail.com">let's talk</a></sub></p>
+<p align="center"><sub>Open to Mobile Lead / full-stack-with-mobile-focus roles — <a href="mailto:sharmaakshat1998@gmail.com">let's talk</a></sub></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:34D399,100:0A0A0B&height=100&section=footer"/>
